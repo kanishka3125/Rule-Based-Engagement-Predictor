@@ -1,5 +1,4 @@
 # Rule-Based-Engagement-Predictor
-#  Instagram Engagement Predictor
 
 A rule-based AI tool to predict Instagram post engagement and suggest optimizations.
 
