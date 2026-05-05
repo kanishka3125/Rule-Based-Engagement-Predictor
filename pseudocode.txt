@@ -1,0 +1,10 @@
+INPUT time, hashtag, type, duration
+IF hashtag > 10 AND type == reel
+  engagement = High
+ELSE IF time == evening AND duration > 15
+  enagagment = High
+ELSE
+  enagagement = Low
+PRINT engagement
+END
+
